@@ -1,0 +1,12 @@
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+.env*
+credentials*.json
+client_secret*.json
+token*.json
+datasets/
+*.xlsx
+*.csv
+*.tsv
